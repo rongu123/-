@@ -6,7 +6,7 @@ import java.util.Properties;
 import java.util.Set;
 
 public class SampleBean {
-	
+	//ÈÙÎ°Àû£¡£¡
 	//Alex£¬Lucy£¬Kitty£¬Henry
 	public List<String> names;
 	
