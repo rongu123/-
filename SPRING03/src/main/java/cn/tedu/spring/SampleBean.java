@@ -6,7 +6,7 @@ import java.util.Properties;
 import java.util.Set;
 
 public class SampleBean {
-	//就是更细您了！
+	//就是更
 	//荣伟利！！萨达所大所
 	//Alex，Lucy，Kitty，Henry
 	public List<String> names;
