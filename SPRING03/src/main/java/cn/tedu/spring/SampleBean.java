@@ -6,8 +6,9 @@ import java.util.Properties;
 import java.util.Set;
 
 public class SampleBean {
-	//ÈÙÎ°Àû£¡£¡Èø´ïËù´óËù
-	//Alex£¬Lucy£¬Kitty£¬Henry
+	//å°±æ˜¯æ›´ç»†æ‚¨äº†ï¼
+	//è£ä¼Ÿåˆ©ï¼ï¼è¨è¾¾æ‰€å¤§æ‰€
+	//Alexï¼ŒLucyï¼ŒKittyï¼ŒHenry
 	public List<String> names;
 	
 	//Bei Shang Guang Shen Shi
@@ -19,7 +20,7 @@ public class SampleBean {
 	//9 5 2 7
 	public Integer[] numbers;
 	
-	//JDBCÅäÖÃ
+	//JDBCé…ç½®
 	public Properties config;
 	
 	public void setConfig(Properties config) {
